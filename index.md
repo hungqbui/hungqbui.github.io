@@ -2,8 +2,8 @@
 
 ---
 
-[Wordle in Java](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Wordle in Java](/wordle)
+<img src="images/wordle.png"/>
 
 ---
 [YouTube Watch Party](/watch-party-app)
