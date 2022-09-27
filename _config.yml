@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <span>Phone number: (832) 703-7997</span>
   <br><br>
-  <a href="mailto: quanghungbui8104@gmail.com"><img width="15px" src="./images/icons8-mail-48.png"> Email</a>
+  <a href="mailto:quanghungbui8104@gmail.com"><img width="15px" src="./images/icons8-mail-48.png"> Email</a>
   <br><br>
   <a href="https://www.linkedin.com/in/hùng-bùi-010a77251/"><img width="15px" src ="./images/LinkedIn_icon_circle.svg.png"> LinkedIn</a> 
 theme: jekyll-theme-minimal
