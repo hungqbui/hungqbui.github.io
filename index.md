@@ -16,4 +16,4 @@
 <br><br>
 <a href="https://github.com/hungqbui/developh-youtube-sync-app"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 <br><br>
-<img src="images/youtubeApp.gif"/>
+<img width ="500px" src="images/youtubeApp.gif"/>
